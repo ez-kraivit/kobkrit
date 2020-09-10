@@ -1,4 +1,4 @@
-### Hi there 👋, I am Kobkrit!
+### Hi there 👋, I am Kobkrit! The Developer and Deep Learning Specialist
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=kobkrit)](https://github.com/kobkrit/github-profile-trophy)
 
