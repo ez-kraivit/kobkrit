@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there 👋, I am Kobkrit!
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=kobkrit)](https://github.com/kobkrit/github-profile-trophy)
 
 <!--
 **kobkrit/kobkrit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
