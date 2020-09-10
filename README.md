@@ -1,4 +1,4 @@
-### Hi there 👋, I am Kobkrit! The Developer and Deep Learning Specialist
+### Hi there 👋, I am Kobkrit! The Mobile, Web Developer and Deep Learning Specialist in Thailand!!
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=kobkrit)](https://github.com/kobkrit/github-profile-trophy)
 
